@@ -1,1 +1,2 @@
-# Write your methods here
+def output_array(message)
+  counter
