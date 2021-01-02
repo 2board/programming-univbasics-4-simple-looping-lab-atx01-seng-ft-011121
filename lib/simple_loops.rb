@@ -1,6 +1,9 @@
-n = 0
-while n < 5
-puts n
-n += 1
+def array(message)
+  
+count = 0
+while count < 5
+puts count
+count += 1
+end
 end
 
