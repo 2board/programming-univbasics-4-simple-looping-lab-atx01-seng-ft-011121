@@ -6,4 +6,4 @@ puts message[count]
 count += 1
 end
 end
-
+message = ["hi"]
