@@ -4,6 +4,6 @@ def output_array(message)
     puts message[counter]
     counter += 1
   end
+  message = ["hello"]
 end
 
-message = ["hello"]
