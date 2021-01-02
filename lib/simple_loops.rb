@@ -5,3 +5,5 @@ def output_array(message)
     counter += 1
   end
 end
+
+message = ["hello"]
